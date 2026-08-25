@@ -1,0 +1,55 @@
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\bin\Debug\POS system.exe.config
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS_system.Form1.resources
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS system.pdb
+C:\Users\ACT-STUDENT\Downloads\POS system\POS system\obj\Debug\POS_system.Bev.resources
+E:\POS System\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+E:\POS System\POS system\POS system\obj\Debug\POS system.exe
+E:\POS System\POS system\POS system\obj\Debug\POS system.pdb
+E:\POS System\POS system\POS system\bin\Debug\POS system.exe.config
+E:\POS System\POS system\POS system\bin\Debug\POS system.exe
+E:\POS System\POS system\POS system\bin\Debug\POS system.pdb
+E:\POS System\POS system\POS system\obj\Debug\POS_system.Form1.resources
+E:\POS System\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+E:\POS System\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+E:\POS System\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\bin\Debug\POS system.exe.config
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS_system.Form1.resources
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS_system.Stock.resources
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\ACT-STUDENT\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.pdb
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS_system.Form1.resources
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS_system.Stock.resources
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\obj\Debug\POS system.pdb
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\bin\Debug\POS system.exe.config
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\admin\Downloads\POS System\POS System\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\bin\Debug\POS system.exe.config
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS system.exe.config
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS_system.Form1.resources
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS_system.Stock.resources
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\ACT-STUDENT\Downloads\POS_System-main\POS system\POS system\obj\Debug\POS system.pdb
